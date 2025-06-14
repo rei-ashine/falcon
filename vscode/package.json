@@ -28,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Falcon",
+        "label": "vscode-falcon",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-color-theme.json"
       }
