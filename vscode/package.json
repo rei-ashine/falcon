@@ -1,0 +1,37 @@
+{
+  "name": "falcon-color-theme",
+  "displayName": "Falcon",
+  "description": "A dark, easy on the eyes, fiery color scheme for VS Code",
+  "version": "2.0.0",
+  "publisher": "fenetikm",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "falcon",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fenetikm/falcon"
+  },
+  "bugs": {
+    "url": "https://github.com/fenetikm/falcon/issues"
+  },
+  "homepage": "https://github.com/fenetikm/falcon#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Falcon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/falcon-color-theme.json"
+      }
+    ]
+  }
+}
